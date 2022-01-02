@@ -1,14 +1,18 @@
 **# Delanistudio**
+
 This is a website that shows work and services offered at Delani studio.It contains services offered,what is done at Delani ,some sample projects that they have worked on and the experience gained.
 
 **Installation**
+
 Requirements
 Either a computer,phone,tablet or an Ipad
 
 An access to the Internet
 
 **Installation Process**
+
 Click on the link provided bellow to view the site. https://https://github.com/mariallugare/Delanistudio
+
 
 **Technology Used**
 HTML - which was used to build the structure of the pages.
@@ -19,6 +23,7 @@ JAVASCRIPT- was used to make the page more interactive
 
 
 **Licence**
+
 MIT License
 
 Copyright (c) [2020] [Marial A chieng]
